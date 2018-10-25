@@ -1,0 +1,15 @@
+{
+  "name": "autotinderauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "run": "FB_USERNAME='' FB_PASSWORD='' node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^12.2.0",
+    "puppeteer": "^1.9.0"
+  }
+}
